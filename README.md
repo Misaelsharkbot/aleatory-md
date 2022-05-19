@@ -4,6 +4,8 @@ VIDEO QUE É NESCESSARIO PARA OS COMANDOS BÁSICOS DO TERMUX, MAS ELES AINDA NÃ
 VIDEO : https://youtu.be/OiWcm9INzXE
 --------------------_-
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Misaelsharkbot/aleatory-md)
+
 APÓS OS COMANDOS BÁSICOS DO TERMUX SÓ ENTRAR NO TERMUX E DA ESSE COMANDO PARA INSTALAR A PASTA NO ARMAZENAMENTO INTERNO :
 
 1_ COMANDO :
